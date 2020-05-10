@@ -18,5 +18,5 @@ In this project the backend would be transformed to Spring Boot Java, to make it
 This would help the future developers joining CSMC to understand the code easily and make new updates.  
 
 ## Example
-
+[![Demo Doccou alpha](https://github.com/ChunPingYang/Course_Scheduling_System/blob/master/adminuser.gif)](https://youtu.be/k-fA48NYxa4)
 
